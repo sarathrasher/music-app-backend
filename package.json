@@ -1,0 +1,28 @@
+{
+  "name": "music-app-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "secrets.js",
+  "dependencies": {
+    "billboard-top-100": "^2.1.1",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "node-fetch": "^2.2.0",
+    "node-gracenote": "^0.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smuntean/music-app-backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smuntean/music-app-backend/issues"
+  },
+  "homepage": "https://github.com/smuntean/music-app-backend#readme"
+}
