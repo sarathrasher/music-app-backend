@@ -1,6 +1,6 @@
 const Gracenote = require("node-gracenote");
 
-const { GRACENOTE_WEB_CLIENT_ID, GRACENOTE_USER_ID, GRACENOTE_CLIENT_TAG } = require('./secrets')
+const { GRACENOTE_WEB_CLIENT_ID, GRACENOTE_USER_ID, GRACENOTE_CLIENT_TAG } = require('./new-secrets')
 
 const uid = uuidv4();
 
